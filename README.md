@@ -1,4 +1,4 @@
-# -Android7.1.2-
+
 1.安装所需工具
 # apt-get install -y openjdk-8-jdk openjdk-8-jre git flex bison gperf build-essential 
 libncurses5-dev:i386 git flex bison gperf build-essential libncurses5-dev:i386 libx11-
